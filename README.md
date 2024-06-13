@@ -11,6 +11,7 @@ I'm Tudor from Ireland, and I create websites. I really enjoy learning languages
 - 🔭 I’m currently working on more projects in JavaScript 
 - 🌱 I’m currently learning TreeJs 
 
+## Social Links
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pTudor069)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tudorpuiu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.tudorpuiu.com/)  
 
