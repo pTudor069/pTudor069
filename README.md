@@ -7,6 +7,7 @@ I'm Tudor from Ireland, and I create websites. I really enjoy learning languages
 * ⚛ React
 * 💻 HTML, CSS, JS
 
+## Aditional Informations
 - 🔭 I’m currently working on more projects in JavaScript 
 - 🌱 I’m currently learning TreeJs 
 
