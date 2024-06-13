@@ -1,10 +1,11 @@
-### Hi there 👋, Tudor Puiu
-#### Design and Development
 ![Design and Development](https://github.com/pTudor069/pTudor069/blob/main/Make%20your%20README.png?raw=true)
 
-I'm Tudor from Ireland, and I create websites. I really enjoy learning languages and frameworks like React and React Native. I also enjoy ui, ux, and web design in general.
+# Hi there 👋, I'm Tudor Puiu
+I'm Tudor from Ireland, and I create websites. I really enjoy learning languages and frameworks like React and React. I also enjoy ui, ux, and web design in general.
 
-Skills: / REACT / JS / HTML / CSS
+## Skills
+* ⚛ React
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on more projects in JavaScript 
 - 🌱 I’m currently learning TreeJs 
