@@ -4,7 +4,6 @@
 I'm Tudor from Ireland, and I create websites. I really enjoy learning languages and frameworks like React and React. I also enjoy ui, ux, and web design in general.
 
 ## Skills
-* ⚛ React
 * 💻 HTML, CSS, JS
 
 ## Aditional Informations
