@@ -1,5 +1,3 @@
-![Design and Development](https://github.com/pTudor069/pTudor069/blob/main/Make%20your%20README.png?raw=true)
-
 # Hi there 👋, I'm Tudor Puiu
 I'm Tudor from Ireland, and I create websites. I really enjoy learning languages and frameworks like React and React. I also enjoy ui, ux, and web design in general.
 
